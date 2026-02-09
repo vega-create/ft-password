@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import UuidGenerator from '../components/tools/UuidGenerator';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="UUID Generator" description="Generate random UUIDs (v4) for databases, APIs, and unique identifiers." />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">UUID Generator</span>
+    </nav>
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">UUID Generator</h1>
+    <UuidGenerator client:load />
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

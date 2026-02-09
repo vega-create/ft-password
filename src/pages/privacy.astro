@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+---
+<BaseLayout>
+  <SEO slot="head" title="Privacy Policy" description="Privacy policy for FreeToolkit Password." />
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Privacy Policy</h1>
+    <p class="text-sm text-gray-500 mb-8">Last updated: February 2026</p>
+    <div class="prose prose-gray max-w-none">
+      <h2>Your Data Stays Private</h2>
+      <p>All password generation, hashing, and checking is performed entirely in your browser using the Web Crypto API. We do not collect, transmit, store, or log any passwords, hashes, or sensitive data you enter.</p>
+      <h2>Analytics</h2>
+      <p>We use Google Analytics to understand site usage. This collects anonymous data such as browser type, pages visited, and approximate location.</p>
+      <h2>Advertising</h2>
+      <p>We use Google AdSense for advertisements. Opt out at <a href="https://www.google.com/settings/ads" class="text-primary-600">Google Ad Settings</a>.</p>
+      <h2>Contact</h2>
+      <p>Questions? Email <a href="mailto:contact@freetoolkit.cc" class="text-primary-600">contact@freetoolkit.cc</a>.</p>
+    </div>
+  </div>
+</BaseLayout>

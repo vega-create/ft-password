@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import PinGenerator from '../components/tools/PinGenerator';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="PIN Generator" description="Generate random numeric PINs of any length for accounts and devices." />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">PIN Generator</span>
+    </nav>
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">PIN Generator</h1>
+    <PinGenerator client:load />
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+---
+<BaseLayout>
+  <SEO slot="head" title="About Us" description="Learn about FreeToolkit Password — free, private password and security tools." />
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">About FreeToolkit Password</h1>
+    <div class="prose prose-gray max-w-none">
+      <p>FreeToolkit Password provides free, private, and secure password tools. Generate strong passwords, check password strength, create hashes, and more — all running entirely in your browser.</p>
+      <h2>Privacy First</h2>
+      <p>All tools process data locally in your browser using the Web Crypto API. Your passwords and sensitive data are never transmitted to any server. We cannot see, store, or access any information you enter.</p>
+      <h2>What We Offer</h2>
+      <p>12 specialized tools for password generation, security checking, hashing, and developer utilities. Each tool uses cryptographically secure random generation for maximum security.</p>
+      <h2>Part of FreeToolkit</h2>
+      <p>FreeToolkit Password is part of the <a href="https://freetoolkit.cc" class="text-primary-600 hover:text-primary-700">FreeToolkit</a> family of free online tools.</p>
+    </div>
+  </div>
+</BaseLayout>
