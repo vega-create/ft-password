@@ -4,7 +4,24 @@ description: "Learn how to generate, store, rotate, and protect API keys in your
 publishDate: "2026-02-04"
 category: "Development"
 tags: ["api", "security", "keys"]
+image: "https://images.pexels.com/photos/5474292/pexels-photo-5474292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A close-up of a hand holding a key with an attached USB drive, highlighting security and technology."
+faq:
+  - q: "What is the key takeaway about api key security best practices?"
+    a: "Understanding api key security best practices helps you make better decisions. Use our free tools at freetoolkit.cc to calculate and compare values instantly."
+  - q: "Are there free tools for api?"
+    a: "Yes! Visit our website for free online tools related to security. No sign-up, no download — just enter your data and get instant results."
+  - q: "How often is this security guide updated?"
+    a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: #f9fafb; border-radius: 12px; border: 1px solid #e5e7eb;">
+<div style="font-weight: 700; font-size: 1rem; margin-bottom: 1rem; color: #111827;">🔐 Api Key Security Best Practices</div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Env vars</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 90%; height: 100%; background: linear-gradient(90deg, #3b82f6, #60a5fa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">✅ Best</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">.gitignore</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 80%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">✅ Must do</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Hardcoded</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 5%; height: 100%; background: linear-gradient(90deg, #10b981, #34d399); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">❌ Never</div></div></div>
+<div style="display: flex; align-items: center; "><span style="width: 120px; font-size: 0.8rem; color: #374151;">Rotate</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 70%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Monthly</div></div></div>
+</div>
 
 API keys are the gatekeepers of your application services. Poorly managed API keys are responsible for numerous security breaches, data leaks, and unauthorized access incidents every year.
 
