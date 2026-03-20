@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #fef2f2; border-radius: 12px; padding: 1rem; border: 1px solid #fecaca;"><div style="font-weight: 700; font-size: 0.85rem; color: #991b1b; margin-bottom: 0.6rem;">Breach Response — Do This NOW</div><div style="display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.75rem;"><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #dc2626;"><b>1.</b> Change passwords immediately</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #f59e0b;"><b>2.</b> Enable 2FA everywhere</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #eab308;"><b>3.</b> Check all linked accounts</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #22c55e;"><b>4.</b> Freeze credit reports</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #3b82f6;"><b>5.</b> Monitor for 12 months</div></div></div>
 Data breaches are unfortunately common in the digital age. Major companies experience breaches regularly, exposing millions of user records. Knowing how to respond quickly can minimize the damage.
 
 ## Step 1: Verify the Breach

@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #fef2f2; border-radius: 12px; padding: 1.2rem; border: 1px solid #fecaca;"><div style="font-weight: 700; font-size: 0.85rem; color: #991b1b; margin-bottom: 0.8rem;">API Key Storage — Security Level</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 100%; background: #dc2626; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Hardcoded in source — WORST</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 65%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Environment vars — Better</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 35%; background: #22c55e; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Secret vault — Best</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 20%; background: #166534; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">+ Rotation ✓</div></div></div>
 API keys are the gatekeepers of your application services. Poorly managed API keys are responsible for numerous security breaches, data leaks, and unauthorized access incidents every year.
 
 ## What Are API Keys?

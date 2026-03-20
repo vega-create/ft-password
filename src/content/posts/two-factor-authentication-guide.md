@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">2FA Methods — Security Ranking</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 40%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">SMS Code — OK</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 55%; background: #eab308; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Email Code — OK</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 80%; background: #22c55e; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Auth App (TOTP) — Good ✓</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 100%; background: #166534; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Hardware Key (FIDO2) — Best ✓✓</div></div></div>
 Two-factor authentication (2FA) is one of the most effective security measures you can enable on your online accounts. Even if an attacker obtains your password, they cannot access your account without the second factor.
 
 ## What Is Two-Factor Authentication?

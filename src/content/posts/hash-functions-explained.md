@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Hash Algorithm Comparison</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 35%; background: #dc2626; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">MD5 (128-bit) — Broken ✗</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 50%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">SHA-1 (160-bit) — Deprecated</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 75%; background: #22c55e; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">SHA-256 (256-bit) — Secure ✓</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 100%; background: #166534; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">bcrypt (adaptive) — Best for passwords ✓✓</div></div></div>
 Hash functions are fundamental to computer security, data integrity, and password storage. Understanding how they work helps you make better decisions about which algorithms to use and when.
 
 ## What Is a Hash Function?

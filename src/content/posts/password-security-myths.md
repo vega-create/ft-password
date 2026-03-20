@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Password Myths vs Facts</div><div style="display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.75rem;"><div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem;"><div style="background: #fecaca; padding: 0.4rem; border-radius: 6px;">✗ "Change every 90 days"</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px;">✓ Only after a breach</div><div style="background: #fecaca; padding: 0.4rem; border-radius: 6px;">✗ "Need $pecial chars!"</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px;">✓ Length matters more</div><div style="background: #fecaca; padding: 0.4rem; border-radius: 6px;">✗ "Never write them down"</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px;">✓ Paper is fine, safely stored</div></div></div></div>
 Many widely believed password practices are outdated, ineffective, or even counterproductive. Security research has evolved significantly, but common advice has not always kept up.
 
 ## Myth 1: Change Passwords Every 90 Days

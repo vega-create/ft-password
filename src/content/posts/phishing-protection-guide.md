@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;"><div style="padding: 0.6rem; background: #fef2f2; border-radius: 8px; text-align: center; border: 1px solid #fecaca; font-size: 0.75rem;"><div style="font-size: 0.9rem;">⚠️</div><b style="color: #dc2626;">Urgent Language</b><br><span style="color: #6b7280;">"Act now or lose access"</span></div><div style="padding: 0.6rem; background: #fef2f2; border-radius: 8px; text-align: center; border: 1px solid #fecaca; font-size: 0.75rem;"><div style="font-size: 0.9rem;">📧</div><b style="color: #dc2626;">Fake Sender</b><br><span style="color: #6b7280;">support@g00gle.com</span></div><div style="padding: 0.6rem; background: #fef2f2; border-radius: 8px; text-align: center; border: 1px solid #fecaca; font-size: 0.75rem;"><div style="font-size: 0.9rem;">🔗</div><b style="color: #dc2626;">Bad URL</b><br><span style="color: #6b7280;">hover before clicking</span></div><div style="padding: 0.6rem; background: #fef2f2; border-radius: 8px; text-align: center; border: 1px solid #fecaca; font-size: 0.75rem;"><div style="font-size: 0.9rem;">📎</div><b style="color: #dc2626;">Attachments</b><br><span style="color: #6b7280;">unexpected .exe/.zip</span></div></div>
 Phishing attacks remain one of the most effective methods cybercriminals use to steal credentials, financial information, and personal data. Understanding how phishing works is essential for protecting yourself online.
 
 ## What Is Phishing?

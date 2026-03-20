@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f0fdf4; border-radius: 12px; padding: 1rem; border: 1px solid #bbf7d0;"><div style="font-weight: 700; font-size: 0.85rem; color: #166534; margin-bottom: 0.6rem;">Password Manager Features</div><div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem; font-size: 0.75rem;"><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> Master Password</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> Autofill</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> Cross-device Sync</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> 2FA Support</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> Secure Sharing</div><div style="background: white; padding: 0.4rem; border-radius: 6px; text-align: center;"><b>✓</b> Breach Alerts</div></div></div>
 Password managers have become essential tools for digital security. With the average person maintaining over 100 online accounts, remembering unique strong passwords for each one is impossible without help.
 
 ## What Is a Password Manager?

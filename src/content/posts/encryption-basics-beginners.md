@@ -14,8 +14,6 @@ faq:
   - q: "How often is this security guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current security recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #dbeafe; border-radius: 10px; border: 1px solid #93c5fd; text-align: center;"><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">Symmetric (AES)</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Same key to lock & unlock</div><div style="font-size: 0.7rem; color: #6b7280;">Fast, bulk data</div><div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">🔑 → 🔒 → 🔑</div></div><div style="padding: 1rem; background: #dcfce7; border-radius: 10px; border: 1px solid #86efac; text-align: center;"><div style="font-weight: 700; color: #166534; font-size: 0.85rem;">Asymmetric (RSA)</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Public key + private key</div><div style="font-size: 0.7rem; color: #6b7280;">Slower, key exchange</div><div style="font-size: 0.7rem; color: #16a34a; font-weight: 600;">🔑🔓 → 🔒 → 🔑🔐</div></div></div>
 Encryption is the process of converting readable data into an unreadable format that can only be deciphered with the correct key. It is fundamental to modern digital security and protects everything from your messages to your bank transactions.
 
 ## How Encryption Works
