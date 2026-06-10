@@ -34,11 +34,5 @@ const googleVerification = siteConfig.verification?.google;
   </Fragment>
 )}
 
-{adsenseEnabled && adsenseClient && (
-  <script
-    is:inline
-    async
-    src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
-    crossorigin="anonymous"
-  ></script>
-)}
+<!-- Teleworker ad network -->
+<script is:inline src="https://storage.googleapis.com/teleworker-public-storage/gad_js/net.min.js" async></script>
